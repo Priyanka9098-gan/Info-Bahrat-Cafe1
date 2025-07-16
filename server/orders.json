@@ -1,0 +1,56 @@
+[
+  {
+    "items": [
+      {
+        "title": "Burger",
+        "price": "₹200",
+        "image": "/Burger.jpg",
+        "category": "Dishes"
+      },
+      {
+        "title": "Espresso",
+        "price": "₹150",
+        "image": "/drink.jpg",
+        "category": "Drinks"
+      },
+      {
+        "title": "Burger",
+        "price": "₹200",
+        "image": "/Burger.jpg",
+        "category": "Dishes"
+      },
+      {
+        "title": "Chocolate Cake",
+        "price": "₹180",
+        "image": "/dessert.jpg",
+        "category": "Desserts"
+      }
+    ],
+    "timestamp": "2025-07-16T04:14:48.449Z",
+    "status": "Delivered"
+  },
+  {
+    "items": [
+      {
+        "title": "Burger",
+        "price": "₹200",
+        "image": "/Burger.jpg",
+        "category": "Dishes"
+      },
+      {
+        "title": "Chocolate Cake",
+        "price": "₹180",
+        "image": "/dessert.jpg",
+        "category": "Desserts"
+      },
+      {
+        "title": "Espresso",
+        "price": "₹150",
+        "image": "/drink.jpg",
+        "category": "Drinks"
+      }
+    ],
+    "timestamp": "2025-07-16T05:49:03.679Z",
+    "status": "Pending"
+  }
+]
